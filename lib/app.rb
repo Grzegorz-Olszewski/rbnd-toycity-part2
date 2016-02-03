@@ -50,6 +50,7 @@ end
 def print_average_discount(position_in_array_of_toy)
 	puts "Average discount :#{calculate_average_discount(position_in_array_of_toy).round(2)}%" 
 end
+ 
 
 def print_all_about_products
 	i = 0
