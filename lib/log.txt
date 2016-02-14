@@ -1,3 +1,9 @@
+commit 96d45e7db7f82e73f9baec3de8e1f8219e3dea8d
+Author: Grzegorz Olszewski <grzegorz.olszewski10@gmail.com>
+Date:   Fri Feb 5 15:48:01 2016 +0100
+
+    Added print method to get report in file, not in console. Ready for submission.
+
 commit 1bad4785253733ef97f52d055f78f1f38669207c
 Author: Grzegorz Olszewski <grzegorz.olszewski10@gmail.com>
 Date:   Fri Feb 5 14:41:36 2016 +0100
